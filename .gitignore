@@ -160,4 +160,4 @@ ui-tests/playwright-report
 ui-tests/.yarn/*
 ui-tests/.pnp.*
 
-.csv
+*.csv
